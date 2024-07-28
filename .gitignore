@@ -128,4 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-frontend/node_modules
+/node_modules
+
+# My scripts
+build.sh
+push.sh
